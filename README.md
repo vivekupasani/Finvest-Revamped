@@ -22,5 +22,3 @@
 &nbsp
 &nbsp
 &nbsp
-
-<video src
